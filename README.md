@@ -274,6 +274,7 @@ Let me know if you'd like help customizing:
 
 
 Just paste your repo link or structure, and I’ll guide you further!
+https://github.com/souravdebnath109/GENAI_.git
 ## Screenshots
 
 ![Screenshot 2025-06-08 172310](https://github.com/user-attachments/assets/5f565ada-6380-46b7-98af-4b64b2d8af54)
