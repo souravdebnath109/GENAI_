@@ -1,0 +1,4 @@
+hf_key==>REMOVED_HF_TOKEN
+gemini_api_key==>REMOVED_GEMINI_KEY
+exchange_rate_api_key=REMOVED_EXCHANGE_RATE_KEY
+weather_map_api_key=REMOVED_WEATHER_MAP_API_KEY
