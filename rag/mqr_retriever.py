@@ -6,7 +6,7 @@ from langchain.retrievers.multi_query import MultiQueryRetriever
 from langchain_google_genai import ChatGoogleGenerativeAI
 
 # Step 0: Set API keys
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = "hf_key"   # Hugging Face
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = "hf_key "   # Hugging Face
 os.environ["GOOGLE_API_KEY"] = "gemini_api_key"             # Gemini (Google GenAI)
 
 # Step 1: Create documents

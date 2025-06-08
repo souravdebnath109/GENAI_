@@ -7,8 +7,8 @@ import os
 
 
 # Optional: set API keys as env variables
-os.environ["GOOGLE_API_KEY"] = "api_key"
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = "hf_token"
+os.environ["GOOGLE_API_KEY"] = "gemini_api_key"
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = "hf_key"
 
 # ✅ Define prompt template
 prompt = PromptTemplate(
